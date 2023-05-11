@@ -1,0 +1,14 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "description": "employee detials ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajay Goyal",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
